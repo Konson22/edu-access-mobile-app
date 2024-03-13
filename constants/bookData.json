@@ -1,0 +1,589 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "buFlDRFaGZIC",
+    "etag": "pCbk2qkcuek",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/buFlDRFaGZIC",
+    "volumeInfo": {
+      "title": "Current Organic Chemistry",
+      "publishedDate": "1999-01",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 118,
+      "printType": "MAGAZINE",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.1.0.0.preview.1",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=buFlDRFaGZIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=buFlDRFaGZIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=buFlDRFaGZIC&printsec=frontcover&dq=chemistry&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=buFlDRFaGZIC&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Current_Organic_Chemistry.html?hl=&id=buFlDRFaGZIC"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=buFlDRFaGZIC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "f5NtXw1CmH0C",
+    "etag": "G4ZQgHcyE0M",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/f5NtXw1CmH0C",
+    "volumeInfo": {
+      "title": "Current Organic Chemistry",
+      "publishedDate": "1998-03",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 114,
+      "printType": "MAGAZINE",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=f5NtXw1CmH0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=f5NtXw1CmH0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=f5NtXw1CmH0C&printsec=frontcover&dq=chemistry&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=f5NtXw1CmH0C&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Current_Organic_Chemistry.html?hl=&id=f5NtXw1CmH0C"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=f5NtXw1CmH0C&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "0o4gBAAAQBAJ",
+    "etag": "kbX9ENP/hQE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0o4gBAAAQBAJ",
+    "volumeInfo": {
+      "title": "Chemistry",
+      "subtitle": "Understanding Substance and Matter",
+      "authors": [
+        "Russell Kuhtz"
+      ],
+      "publisher": "Encyclopaedia Britannica",
+      "publishedDate": "2014-07-15",
+      "description": "Without chemistry, bread would not rise, cleaners would not clean, and life itself would not exist. Chemistry is the study of matter and the chemical changes that matter undergoes. The discovery of the atom and how atoms interact with one another has transformed the world. In this illuminating volume, readers learn about the history of chemistry and the concepts they might encounter in an introductory chemistry course, including chemical and volumetric analysis, atomic theory, gravitation, elements and the periodic table, chemical reactions and formulas, and organic and inorganic compounds and bonds. Sidebars highlight key chemists and scientific principles.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781622754168"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1622754166"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 104,
+      "printType": "BOOK",
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=0o4gBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=0o4gBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=0o4gBAAAQBAJ&printsec=frontcover&dq=chemistry&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=0o4gBAAAQBAJ&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Chemistry.html?hl=&id=0o4gBAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Chemistry-sample-epub.acsm?id=0o4gBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Chemistry-sample-pdf.acsm?id=0o4gBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=0o4gBAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "In this illuminating volume, readers learn about the history of chemistry and the concepts they might encounter in an introductory chemistry course, including chemical and volumetric analysis, atomic theory, gravitation, elements and the ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "HAkNAAAAYAAJ",
+    "etag": "TOVh60hO/bM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HAkNAAAAYAAJ",
+    "volumeInfo": {
+      "title": "Lecture Notes for Chemical Students",
+      "subtitle": "Embracing Mineral and Organic Chemistry",
+      "authors": [
+        "Sir Edward Frankland"
+      ],
+      "publishedDate": "1866",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "HARVARD:32044102952033"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 468,
+      "printType": "BOOK",
+      "categories": [
+        "Chemistry"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=HAkNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HAkNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=HAkNAAAAYAAJ&printsec=frontcover&dq=chemistry&hl=&cd=4&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=HAkNAAAAYAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HAkNAAAAYAAJ"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "FREE",
+      "isEbook": true,
+      "buyLink": "https://play.google.com/store/books/details?id=HAkNAAAAYAAJ&rdid=book-HAkNAAAAYAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": true,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false,
+        "downloadLink": "http://books.google.com/books/download/Lecture_Notes_for_Chemical_Students.epub?id=HAkNAAAAYAAJ&hl=&output=epub&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "downloadLink": "http://books.google.com/books/download/Lecture_Notes_for_Chemical_Students.pdf?id=HAkNAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0GaPwvkrEMNMUCsE1uJuJk0AU7Xw&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=HAkNAAAAYAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "tCYDq3WKbvkC",
+    "etag": "Vj5jzI8qh8U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/tCYDq3WKbvkC",
+    "volumeInfo": {
+      "title": "Proceedings of the Estonian Academy of Sciences, Chemistry",
+      "publishedDate": "2004-03",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 48,
+      "printType": "MAGAZINE",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.1.0.preview.1",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=tCYDq3WKbvkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=tCYDq3WKbvkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=tCYDq3WKbvkC&printsec=frontcover&dq=chemistry&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=tCYDq3WKbvkC&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Proceedings_of_the_Estonian_Academy_of_S.html?hl=&id=tCYDq3WKbvkC"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=tCYDq3WKbvkC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "IyNnNlaOPKkC",
+    "etag": "vEf9zNfn5lo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IyNnNlaOPKkC",
+    "volumeInfo": {
+      "title": "Current Organic Chemistry",
+      "publishedDate": "1997-07",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 94,
+      "printType": "MAGAZINE",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=IyNnNlaOPKkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=IyNnNlaOPKkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=IyNnNlaOPKkC&printsec=frontcover&dq=chemistry&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=IyNnNlaOPKkC&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Current_Organic_Chemistry.html?hl=&id=IyNnNlaOPKkC"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=IyNnNlaOPKkC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "2gqkgvsWdVgC",
+    "etag": "s8wFKkxjzxk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2gqkgvsWdVgC",
+    "volumeInfo": {
+      "title": "Current Medicinal Chemistry",
+      "publishedDate": "1995-06",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 100,
+      "printType": "MAGAZINE",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.2.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=2gqkgvsWdVgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=2gqkgvsWdVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=2gqkgvsWdVgC&printsec=frontcover&dq=chemistry&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=2gqkgvsWdVgC&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Current_Medicinal_Chemistry.html?hl=&id=2gqkgvsWdVgC"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=2gqkgvsWdVgC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "JR8R7Wrs6UYC",
+    "etag": "hmi70/Buv50",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JR8R7Wrs6UYC",
+    "volumeInfo": {
+      "title": "Opportunities in Chemistry",
+      "subtitle": "Today and Tomorrow",
+      "authors": [
+        "Division on Engineering and Physical Sciences",
+        "Commission on Physical Sciences, Mathematics, and Applications",
+        "Janice A. Coonrod",
+        "George C. Pimentel"
+      ],
+      "publisher": "National Academies Press",
+      "publishedDate": "1987-02-01",
+      "description": "Experts agree that the nation would benefit if more young people \"turned on\" to the sciences. This book is designed as a tool to do just that. It is based on Opportunities in Chemistry, a National Research Council publication that incorporated the contributions of 350 researchers working at the frontiers of the field. Chemistry educators Janice A. Coonrod and the late George C. Pimentel revised the material to capture the interest of today's student. A broad and highly readable survey, the volume explores: The role of chemistry in attacking major problems in environmental quality, food production, energy, health, and other important areas. Opportunities at the leading edge of chemistry, in controlling basic chemical reactions and working at the molecular level. Working with lasers, molecular beams, and other sophisticated measurement techniques and tools available to chemistry researchers. The book concludes with a discussion of chemistry's role in society's risk-benefit decisions and a review of career and educational opportunities.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780309037426"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0309037425"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 255,
+      "printType": "BOOK",
+      "categories": [
+        "Science"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=JR8R7Wrs6UYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=JR8R7Wrs6UYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=JR8R7Wrs6UYC&printsec=frontcover&dq=chemistry&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=JR8R7Wrs6UYC&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Opportunities_in_Chemistry.html?hl=&id=JR8R7Wrs6UYC"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "PARTIAL",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=JR8R7Wrs6UYC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "This book is designed as a tool to do just that. It is based on Opportunities in Chemistry, a National Research Council publication that incorporated the contributions of 350 researchers working at the frontiers of the field."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "-jkvAQAAIAAJ",
+    "etag": "+GM8opkH3eI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-jkvAQAAIAAJ",
+    "volumeInfo": {
+      "title": "Chemistry",
+      "authors": [
+        "John A. Olmsted",
+        "Gregory M. Williams"
+      ],
+      "publishedDate": "2002",
+      "description": "LISTEN! CAN YOU HEAR THE MUSIC? Did you ever hear the melody of a favorite song coming over the sound system at a local mall? You nay have trouble recognizing the song at first. In the World of ambient sound, the notes are all there, but often there's no music. Reproducing the notes is not the same as making music. The same is true of the art of chemistry. As you take general chemistry, you will be immersed in atoms and molecules - the notes - of chemistry. Understanding the roles of atoms and molecules in every facet of chemistry will reveal to you the richness of the chemical world - its music. The author's goal in this third edition of Chemistry is to present the basic concepts of chemistry in a way that reveals the great chemical symphony that underlies our molecular world. Being able to hear this music will help you succeed in this course. More importantly, it will serve you well in your future career!",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "STANFORD:36105110414617"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 1196,
+      "printType": "BOOK",
+      "categories": [
+        "Science"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.8.7.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=-jkvAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=-jkvAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=-jkvAQAAIAAJ&q=chemistry&dq=chemistry&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=-jkvAQAAIAAJ&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Chemistry.html?hl=&id=-jkvAQAAIAAJ"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=-jkvAQAAIAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The author&#39;s goal in this third edition of Chemistry is to present the basic concepts of chemistry in a way that reveals the great chemical symphony that underlies our molecular world."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "4B_7CYlAPb4C",
+    "etag": "5I58vg1eR7Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/4B_7CYlAPb4C",
+    "volumeInfo": {
+      "title": "Proceedings of the Estonian Academy of Sciences, Chemistry",
+      "publishedDate": "1999-03",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 48,
+      "printType": "MAGAZINE",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.0.1.0.preview.1",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=4B_7CYlAPb4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=4B_7CYlAPb4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=4B_7CYlAPb4C&printsec=frontcover&dq=chemistry&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=4B_7CYlAPb4C&dq=chemistry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Proceedings_of_the_Estonian_Academy_of_S.html?hl=&id=4B_7CYlAPb4C"
+    },
+    "saleInfo": {
+      "country": "BG",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BG",
+      "viewability": "ALL_PAGES",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=4B_7CYlAPb4C&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  }
+]
+  
